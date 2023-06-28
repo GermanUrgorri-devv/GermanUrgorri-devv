@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GermanUrgorri-devv](https://github.com/GermanUrgorri-devv)
 
-- 💬 Ask me about **HTML,CSS, Javascript and**
+- 💬 Ask me about **HTML,CSS, Javascript, PHP, Angular and Laravel**
 
 - 📫 How to reach me **germanurgorri@gmail.com**
 
